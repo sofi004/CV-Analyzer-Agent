@@ -1,0 +1,14 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+
+# Cache do Gradio e Python
+.gradio/
+__pycache__/
+*.py[cod]
+
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
