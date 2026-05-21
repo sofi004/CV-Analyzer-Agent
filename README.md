@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 # CV-Analyzer-Agent
-=======
-export GOOGLE_API_KEY="chave" -> In terminal
->>>>>>> 965552d (CV Agent)
+
+To run you it's needed to write the following in the terminal:
+export GOOGLE_API_KEY="Key" 
