@@ -1,4 +1,4 @@
 # CV-Analyzer-Agent
 
-To run you it's needed to write the following in the terminal:
+To run the program, you need to type the following into the terminal.
 export GOOGLE_API_KEY="Key" 
